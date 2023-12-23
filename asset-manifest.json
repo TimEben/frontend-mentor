@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TimEben/qrcode/static/css/main.91f7d8e2.css",
+    "main.js": "/TimEben/qrcode/static/js/main.ef524f14.js",
+    "static/js/787.36247d3e.chunk.js": "/TimEben/qrcode/static/js/787.36247d3e.chunk.js",
+    "index.html": "/TimEben/qrcode/index.html",
+    "main.91f7d8e2.css.map": "/TimEben/qrcode/static/css/main.91f7d8e2.css.map",
+    "main.ef524f14.js.map": "/TimEben/qrcode/static/js/main.ef524f14.js.map",
+    "787.36247d3e.chunk.js.map": "/TimEben/qrcode/static/js/787.36247d3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f7d8e2.css",
+    "static/js/main.ef524f14.js"
+  ]
+}
