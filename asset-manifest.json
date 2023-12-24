@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/qrcode/static/css/main.91f7d8e2.css",
-    "main.js": "/github.io/qrcode/static/js/main.3675b2e4.js",
-    "static/js/787.36247d3e.chunk.js": "/github.io/qrcode/static/js/787.36247d3e.chunk.js",
-    "index.html": "/github.io/qrcode/index.html",
-    "main.91f7d8e2.css.map": "/github.io/qrcode/static/css/main.91f7d8e2.css.map",
-    "main.3675b2e4.js.map": "/github.io/qrcode/static/js/main.3675b2e4.js.map",
-    "787.36247d3e.chunk.js.map": "/github.io/qrcode/static/js/787.36247d3e.chunk.js.map"
+    "main.css": "/github.io/frontend-mentor/static/css/main.91f7d8e2.css",
+    "main.js": "/github.io/frontend-mentor/static/js/main.983a0494.js",
+    "static/js/787.36247d3e.chunk.js": "/github.io/frontend-mentor/static/js/787.36247d3e.chunk.js",
+    "index.html": "/github.io/frontend-mentor/index.html",
+    "main.91f7d8e2.css.map": "/github.io/frontend-mentor/static/css/main.91f7d8e2.css.map",
+    "main.983a0494.js.map": "/github.io/frontend-mentor/static/js/main.983a0494.js.map",
+    "787.36247d3e.chunk.js.map": "/github.io/frontend-mentor/static/js/787.36247d3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91f7d8e2.css",
-    "static/js/main.3675b2e4.js"
+    "static/js/main.983a0494.js"
   ]
 }
